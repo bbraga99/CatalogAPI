@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FirstAPI\\CatalogAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|d:\\firstapi\\catalogapi\\catalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|solutionrelative:catalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|d:\\firstapi\\catalogapi\\catalogapi\\filters\\apiexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|solutionrelative:catalogapi\\filters\\apiexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|d:\\firstapi\\catalogapi\\catalogapi\\filters\\apiloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|solutionrelative:catalogapi\\filters\\apiloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|d:\\firstapi\\catalogapi\\catalogapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|solutionrelative:catalogapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|d:\\firstapi\\catalogapi\\catalogapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|solutionrelative:catalogapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|d:\\firstapi\\catalogapi\\catalogapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|solutionrelative:catalogapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|d:\\firstapi\\catalogapi\\catalogapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|solutionrelative:catalogapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|d:\\firstapi\\catalogapi\\catalogapi\\catalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|solutionrelative:catalogapi\\catalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|d:\\firstapi\\catalogapi\\catalogapi\\validations\\firstletteruppervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD173A79-6D1A-485B-BB72-2EAA49DA43DF}|CatalogAPI\\CatalogAPI.csproj|solutionrelative:catalogapi\\validations\\firstletteruppervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiExceptionFilter.cs",
+              "DocumentMoniker": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Filters\\ApiExceptionFilter.cs",
+              "RelativeDocumentMoniker": "CatalogAPI\\Filters\\ApiExceptionFilter.cs",
+              "ToolTip": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Filters\\ApiExceptionFilter.cs",
+              "RelativeToolTip": "CatalogAPI\\Filters\\ApiExceptionFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:14:15.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CatalogAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CatalogAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T00:10:00.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CatalogAPI\\Program.cs",
+              "ToolTip": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Program.cs",
+              "RelativeToolTip": "CatalogAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T13:53:21.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CatalogAPI\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "CatalogAPI\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T12:59:11.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CatalogAPI\\Models\\Category.cs",
+              "ToolTip": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Models\\Category.cs",
+              "RelativeToolTip": "CatalogAPI\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T12:56:14.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CatalogAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Models\\Product.cs",
+              "RelativeToolTip": "CatalogAPI\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T12:52:58.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CatalogAPI.csproj",
+              "DocumentMoniker": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\CatalogAPI.csproj",
+              "RelativeDocumentMoniker": "CatalogAPI\\CatalogAPI.csproj",
+              "ToolTip": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\CatalogAPI.csproj",
+              "RelativeToolTip": "CatalogAPI\\CatalogAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-25T12:52:28.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiLoggingFilter.cs",
+              "DocumentMoniker": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Filters\\ApiLoggingFilter.cs",
+              "RelativeDocumentMoniker": "CatalogAPI\\Filters\\ApiLoggingFilter.cs",
+              "ToolTip": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Filters\\ApiLoggingFilter.cs",
+              "RelativeToolTip": "CatalogAPI\\Filters\\ApiLoggingFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:51:56.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FirstLetterUpperValidation.cs",
+              "DocumentMoniker": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Validations\\FirstLetterUpperValidation.cs",
+              "RelativeDocumentMoniker": "CatalogAPI\\Validations\\FirstLetterUpperValidation.cs",
+              "ToolTip": "D:\\FirstAPI\\CatalogAPI\\CatalogAPI\\Validations\\FirstLetterUpperValidation.cs",
+              "RelativeToolTip": "CatalogAPI\\Validations\\FirstLetterUpperValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:43:33.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
